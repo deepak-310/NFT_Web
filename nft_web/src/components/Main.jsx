@@ -38,13 +38,13 @@ const Main = ({selectedPunk, punkListData}) => {
                         </div>
                         <div className="links">
                             <div className="ownerLink">
-                                <img src={instagramLogo} alt="" />
+                                <img src={instagramLogo} alt="instagram" />
                             </div>
                             <div className="ownerLink">
-                                <img src={twitterLogo} alt="" />
+                                <img src={twitterLogo} alt="twitter" />
                             </div>
                             <div className="ownerLink">
-                                <img src={moreIcon} alt="" />
+                                <img src={moreIcon} alt="more" />
                             </div>
                         </div>
                     </div>
